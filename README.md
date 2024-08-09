@@ -2,6 +2,10 @@
 
 Vite Plugin for Lokal JS/TS client
 
+| CLI Preview | Browser Preview |
+|---|---|
+| ![CLI Preview](screenshot1.png)  | ![Browser Preview](screenshot2.png) |
+
 ## Installation
 
 ```sh
