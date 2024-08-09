@@ -17,7 +17,7 @@ import lokalTunnel from 'lokal-vite-plugin';
 
 export default defineConfig({
 	plugins: [lokalTunnel({
-        tunnelName: "my app",
+		tunnelName: "my app",
 		lanAddress: "my-app.local"
 	})]
 });
