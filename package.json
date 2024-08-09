@@ -1,0 +1,32 @@
+{
+	"name": "lokal-vite-plugin",
+	"version": "0.0.1",
+	"description": "Lokal Vite Plugin based on Lokal JS/TS",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"format": "prettier --write .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lokal-so/lokal-vite-plugin.git"
+	},
+	"keywords": [
+		"tunnel",
+		"tunneling",
+		"networking",
+		"mdns",
+		"dns"
+	],
+	"author": "RUBI JIHANTORO",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lokal-so/lokal-vite-plugin/issues"
+	},
+	"homepage": "https://github.com/lokal-so/lokal-vite-plugin#readme",
+	"dependencies": {
+		"lokal-js": "^0.0.5",
+		"prettier": "^3.3.3"
+	}
+}
