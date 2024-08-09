@@ -12,7 +12,6 @@ npm i lokal-vite-plugin
 
 ```javascript
 // vite.config.js
-import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
 import lokalTunnel from 'lokal-vite-plugin';
 
