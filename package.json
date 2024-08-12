@@ -1,6 +1,6 @@
 {
 	"name": "lokal-vite-plugin",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Lokal Vite Plugin based on Lokal JS/TS",
 	"type": "module",
 	"main": "index.js",
