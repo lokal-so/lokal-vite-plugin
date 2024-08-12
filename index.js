@@ -18,7 +18,7 @@ export default function lokalTunnel(options = {}) {
 					.newTunnel()
 					.setLocalAddress(`${host}:${port}`)
 					.setTunnelType('HTTP')
-                    .setName(tunnelName)
+					.setName(tunnelName)
 					.setPublicAddress(publicAddress)
 					.setLANAddress(lanAddress)
 					.showStartupBanner()

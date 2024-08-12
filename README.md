@@ -22,7 +22,8 @@ import lokalTunnel from 'lokal-vite-plugin';
 export default defineConfig({
 	plugins: [lokalTunnel({
 		tunnelName: "my app",
-		lanAddress: "my-app.local"
+		lanAddress: "my-app.local",
+		publicAddress: "remix.i.lokal-so.site"
 	})]
 });
 ```
