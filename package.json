@@ -29,6 +29,6 @@
 		"prettier": "^3.3.3"
 	},
 	"dependencies": {
-		"lokal-js": "^0.0.6"
+		"lokal-js": "^0.0.11"
 	}
 }
